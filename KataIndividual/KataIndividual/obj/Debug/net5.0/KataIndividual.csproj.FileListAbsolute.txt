@@ -1,0 +1,16 @@
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\bin\Debug\net5.0\KataIndividual.exe
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\bin\Debug\net5.0\KataIndividual.deps.json
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\bin\Debug\net5.0\KataIndividual.runtimeconfig.json
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\bin\Debug\net5.0\KataIndividual.runtimeconfig.dev.json
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\bin\Debug\net5.0\KataIndividual.dll
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\bin\Debug\net5.0\ref\KataIndividual.dll
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\bin\Debug\net5.0\KataIndividual.pdb
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.csprojAssemblyReference.cache
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.AssemblyInfoInputs.cache
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.AssemblyInfo.cs
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.csproj.CoreCompileInputs.cache
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.dll
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\ref\KataIndividual.dll
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.pdb
+C:\Users\Leiscar Trinidad\Desktop\Homework\TendenciadeAplicaciones\Kata Individual\KataIndividual\KataIndividual\obj\Debug\net5.0\KataIndividual.genruntimeconfig.cache
